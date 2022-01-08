@@ -1,0 +1,23 @@
+h1 {
+    margin-bottom: 32px;
+    color: var(--White);
+    font-family: var(--fontInter);
+    
+    span {
+        color: var(--Soft-violet);
+    }
+}
+
+h3 {
+    font-size: 21px;
+    color: var(--White);
+}
+
+p {
+    max-width: 23rem;
+    line-height: 1.5rem;
+    font-size: 15px;
+    color: var(--Slightly-transparent-white2);
+    font-family: var(--fontDeca);
+}
+
